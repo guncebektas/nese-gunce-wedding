@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
   <link rel="shortcut icon" href="favicon.png" type="image/png">
 
@@ -60,13 +60,13 @@
         <div class="venue">Harita</div>
       </a>
 
-      <a href="https://github.com/arungop/akhiarya/files/6328859/akhiwedsarya.pdf" download="Davetiye">
+      <a href="assets/img/davetiye.jpg" download="davetiye.jpg">
         <div class="venue">Davetiye</div>
       </a>
     </div>
 
     <div class="music">
-      <audio src="./assets/mp3/music.mp3" id="my_audio" loop="loop"></audio>
+      <audio src="./assets/mp3/music1.mp3" id="my_audio" loop="loop"></audio>
     </div>
 
     <footer>

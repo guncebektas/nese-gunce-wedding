@@ -60,7 +60,7 @@
         <div class="venue">Harita</div>
       </a>
 
-      <a href="assets/img/davetiye-nikah.jpg" download="davetiye-nikah.jpg">
+      <a href="assets/img/davetiye.jpg" download="davetiye.jpg">
         <div class="venue">Davetiye</div>
       </a>
     </div>

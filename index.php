@@ -60,7 +60,7 @@
         <div class="venue">Harita</div>
       </a>
 
-      <a href="assets/img/davetiye.jpg" download="davetiye.jpg">
+      <a href="assets/img/davetiye-nikah.jpg" download="davetiye-nikah.jpg">
         <div class="venue">Davetiye</div>
       </a>
     </div>
@@ -93,6 +93,6 @@
     </footer>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src='https://cdn.jsdelivr.net/gh/timoschaefer/jQuery-Sakura/jquery-sakura.min.js'></script>
-    <script src="./js/script.js"></script>
+    <script src="./js/script.js?v=<?php rand(0,9999); ?>"></script>
 </body>
 </html>

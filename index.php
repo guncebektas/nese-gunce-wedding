@@ -66,7 +66,7 @@
     </div>
 
     <div class="music">
-      <audio src="./assets/mp3/music1.mp3" id="my_audio" loop="loop"></audio>
+      <audio src="./assets/mp3/music1.mp3" id="my_audio" loop="loop" autoplay="true"></audio>
     </div>
 
     <footer>
@@ -93,6 +93,6 @@
     </footer>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src='https://cdn.jsdelivr.net/gh/timoschaefer/jQuery-Sakura/jquery-sakura.min.js'></script>
-    <script src="./js/script.js?v=<?php rand(0,9999); ?>"></script>
+    <script src="./js/script.js?v=<?php echo rand(0,9999); ?>"></script>
 </body>
 </html>
